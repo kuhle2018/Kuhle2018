@@ -1,9 +1,26 @@
 ## Hi there 👋
+I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in Technical Support . I hold a NQL4 qualification in Technical Support, which i completed in 1year .I'm currently pursuing my passion for Software development and excited to apply my skills and knowledge in real-world projects.
 
-<!--
-**kuhle2018/Kuhle2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Technologies
+- Operating systems: Windows, Linux, macOS
+- Productivity Systems: Microsoft Office, Word, Excel, PowerPoint,Outlook
+- Technical support: Hardware,software and network troubleshooting
 
-Here are some ideas to get you started:
+  ## Projects
+-
+-
+-
+
+## Social Links
+- LinkedIn:
+- GitHub:
+
+  ## Contact Information
+  - Email: lindokuhle.moyakhe@gmail.com
+ 
+    ## What i'm working on
+    -
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
