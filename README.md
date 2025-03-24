@@ -6,28 +6,27 @@ I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in
 - Productivity Systems: Microsoft Office, Word, Excel, PowerPoint,Outlook
 - Technical support: Hardware,software and network troubleshooting
 
-  ## Projects
+## Projects
 -
 -
 -
 
 ## Social Links
 - LinkedIn:
-- GitHub:
+- GitHub: kuhle2018@github
 
-  ## Contact Information
-  - Email: lindokuhle.moyakhe@gmail.com
+## Contact Information
+- Email: lindokuhle.moyakhe@gmail.com
  
-    ## What i'm working on
-    -
+## What i'm working on
+🔭I'm currently woking on a Tailwind footer project using CSS.
+
+## What i'm Learning
+🌱I'm currently learning about 
+
+## How to reach Me
+📬You can reach me trhough my email or LinkedIn profile.
+    
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
