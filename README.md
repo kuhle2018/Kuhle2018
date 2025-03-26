@@ -13,7 +13,7 @@ I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in
 
 ## Social Links
 - LinkedIn:
-- GitHub: kuhle2018@github
+- GitHub: https://github.com/kuhle2018
 
 ## Contact Information
 - Email: lindokuhle.moyakhe@gmail.com
