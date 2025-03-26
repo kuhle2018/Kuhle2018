@@ -1,5 +1,6 @@
-## Hi there 👋
-I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in Technical Support . I hold a NQL4 qualification in Technical Support, which i completed in 1year .I'm currently pursuing my passion for Software development and excited to apply my skills and knowledge in real-world projects.
+## 👋🏾Hello, Fellow developers!👩🏾‍💻
+- I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in Technical Support . I hold a NQL4 qualification in Technical Support, which i completed in 1year .I'm 
+ currently pursuing my passion for Software development and excited to apply my skills and knowledge in real-world projects.
 
 ## Skills and Technologies
 - Operating systems: Windows, Linux, macOS
