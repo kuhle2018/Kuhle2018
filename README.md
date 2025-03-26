@@ -10,13 +10,12 @@ I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in
 -
 -
 -
-
 ## Social Links
-- LinkedIn: https://www.linkedin.com/in/ lindokuhle-moyakhe-603661253
-- GitHub: https://github.com/kuhle2018
+- LinkedIn:[📊LinkedIn](https://www.linkedin.com/in/lindokuhle-moyakhe-603661253)
+- GitHub:[🐙GitHub](https://github.com/kuhle2018)
 
 ## Contact Information
-- Email: lindokuhle.moyakhe@gmail.com
+[📧 Email](lindokuhle.moyakhe@gmail.com)
  
 ## What i'm working on
 🔭I'm currently woking on a footer project using Tailwind CSS.
