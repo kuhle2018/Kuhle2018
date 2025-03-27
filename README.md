@@ -9,16 +9,20 @@ I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+![gif](https://avatars.githubusercontent.com/u/199749173?v=4)
+
+
 ## 👩🏾‍🎓Skills
 - 💻Windows/ Linux/ macOS
 - 📊Microsoft Office/ Word /Excel / PowerPoint /Outlook 
 - 🛠Hardware/  software /network troubleshoting
 
-  ## Projects
+  
+ ## Projects
 - 🔭 I’m currently working on Building a responsive footer using Tailwind CSS 
 - 🌱 I’m currently learning Tailwind CSS: Exploring the latest features and best practices
-- 
-## Contact
+
+  ## Contact
 - 📫 How to reach me: lindokuhle.moyakhe@gmail.com 
 
 ## Social Links
@@ -34,9 +38,6 @@ I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kuhle2018&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
 
 
 
