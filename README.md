@@ -1,7 +1,13 @@
-### Hi there 👋, Lindokuhle Moyakhe
-#### Software Development Student
-(![https://github.com/kuhle2018](https://photos.google.com/photo/AF1QipOU1T-vTK-W_xaUVIL8ZaHqvzt2yyeXFosC-w8))
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Lindokuhle%20Moyakhe👩🏾‍💻&fontSize=70"/>
 
+
+
+
+
+
+
+### Software Development Student  🚀
+## Hi there 👋
 I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in Technical Support . I hold a NQL4 qualification in Technical Support, which i completed in 1year .I'm 
  currently pursuing my passion for Software development and excited to apply my skills and knowledge in real-world projects.
 
