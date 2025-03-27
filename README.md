@@ -9,7 +9,7 @@ I'm Lindokuhle Moyakhe, a Software developer student with a strong foundation in
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![gif](https://avatars.githubusercontent.com/u/199749173?v=4)
+![banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s)
 
 
 ## 👩🏾‍🎓Skills
