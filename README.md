@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Lindokuhle%20Moyakhe👩🏾‍💻&fontSize=70"/>
 
 
-### Software Development Student  🚀
+### Software Development Graduate  🚀
 # Hi there 👋
 ![gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s)
 
